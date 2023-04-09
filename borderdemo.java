@@ -22,7 +22,7 @@ borderdemo() {
 	
 	f.add(b1, BorderLayout.CENTER);
 	f.add(b2, BorderLayout.SOUTH);
-	f,add(b3, BorderLayout.NORTH);
+	f.add(b3, BorderLayout.NORTH);
 	f.add(b4, BorderLayout.WEST);
 	f.add(b5, BorderLayout.EAST);
 	f.setSize(300,300);
